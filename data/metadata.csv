@@ -1,0 +1,13 @@
+filename,qos,security_level,clients,topics,timeout,comment
+QoS0Plaintext.txt,0,0,1,1,50,
+QoS0TLS.txt,0,1,1,1,50,
+TLSMAQoS0.txt,0,2,1,1,50,
+TLSMAQoS0_CLEANED.txt,0,2,1,1,50,
+PlaintextQoS1.txt,1,0,1,1,50,
+TLSQoS1.txt,1,1,1,1,50,
+TLSMAQoS1.txt,1,2,1,1,50,not used in plots
+TLSMAQoS1_take2.txt,1,2,1,1,50,used in plots
+PlaintextQoS2.txt,2,0,1,1,50,used in plots
+PlaintextQoS2_take2.txt,2,0,1,1,50,not used in plots
+TLSQoS2.txt,2,1,1,1,50,
+TLSMAQoS2.txt,2,2,1,1,50,
