@@ -7,5 +7,5 @@ With the growing interest in Internet of Things (IoT) devices, a number of commu
 **This dataset was introduced in this peer-reviewed publication:**<br/>
 Y. Liu and E. Al-Masri, "Evaluating the Reliability of MQTT with Comparative Analysis," 2021 IEEE 4th International Conference on Knowledge Innovation and Invention (ICKII), 2021, pp. 24-29, doi: 10.1109/ICKII51822.2021.9574783.<br/>
 
-Please cite the above paper if using the dataset. For any questions, please contact: uwtinres@gmail.com<br/>
+Please cite the above paper if using the dataset. For any questions, please contact: uwtinres at gmail dot com<br/>
 
